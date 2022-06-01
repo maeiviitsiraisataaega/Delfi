@@ -1,9 +1,9 @@
 :root {
-	--color-bg-color-1: rgb(0, 0, 0);
-	--color-bg-color-2: #000000;
-	--color-bg-color-3: #000000;
-	--color-bg-color-4: #020203;
-	--color-bg-color-5: #000000;
+	--color-bg-color-1: #121212;
+	--color-bg-color-2: #121212;
+	--color-bg-color-3: #121212;
+	--color-bg-color-4: #121212;
+	--color-bg-color-5: #121212;
 	--color-color-1: #414141;
 	--color-color-2: #414141;
 	--color-color-3: #edf2f4;
@@ -16,7 +16,7 @@
 	--color-text-3: #0f134b;
 	--color-link-1: #3858f5;
 	--color-link-2: #fa044f;
-	--color-bg-color-1-hover: #d3d3d3;
+	--color-bg-color-1-hover: #000000;
 	--color-bg-color-1-contrast: #3858f5;
 	--color-bg-color-2-hover: #c4c8ca;
 	--color-bg-color-2-contrast: #222;
@@ -50,8 +50,8 @@
 	--color-link-1-contrast: #fff;
 	--color-link-2-hover: #fb3672;
 	--color-link-2-contrast: #fff;
-	--color-white: #fff;
-	--color-black: #222;
+	--color-white: #222;
+	--color-black: #fff;
 	--color-total-package: #00d46e;
 	--color-total-package-hover: #00bb61;
 	--color-facebook: #4267b2;
