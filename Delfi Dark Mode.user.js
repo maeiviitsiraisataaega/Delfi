@@ -3,7 +3,7 @@
 // @namespace    https://github.com/maeiviitsiraisataaega/Delfi/
 // @version      0.1
 // @description  Dark mode Delfi jaoks
-// @author       AHVIPEA
+// @author       maeiviitsiraisataaega
 // @match        homepage
 // @match        https://www.delfi.ee/*
 // @resource     REMOTE_CSS https://raw.githubusercontent.com/maeiviitsiraisataaega/Delfi/main/css.css?version=5
