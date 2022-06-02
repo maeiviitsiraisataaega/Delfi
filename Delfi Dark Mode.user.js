@@ -34,7 +34,7 @@ addGlobalStyle('body, .C-block-type-11, .G-col, .G-row, .HYPE_element, .lb24-art
 addGlobalStyle('h1, h2, h3, h4, h5, .C-block-type-social-text, a, .C-headline-title, .PILETITASKU-ticket__title, .PILETITASKU-ticket__date, #LB24, .lb24, .C-fragment-pullout--primary-color, .lb24-article-title, .lb24-article-link, .lb24-component-content, .lb24-list-item-highlight, .lb24-component-content p { color: #FFFFFF !important; }');
 addGlobalStyle('.C-headline-title__share, .C-comment-count { display: none !important; }');
 addGlobalStyle('.WEATHER-location-search, .C-block-type-14__wrapper--has-bg, .C-headline-icons__icon--text, .C-article-headlines__content-wrapper, .content{ background: #121212 !important; color: #FFFFFF !important; }');
-addGlobalStyle('.C-header__logo, .C-block-type-8__logo-secondary { filter: brightness(0) invert(1) !important; }');
+addGlobalStyle('.C-header__logo, .C-block-type-8__logo-secondary, .C-block-type-8__logo { filter: brightness(0) invert(1) !important; }');
 addGlobalStyle('.eekuulutused-carousel a, #eekuulutused .rest-offers__link,  { background-color: #323232 !important; color: #FFFFFF !important; }');
 
 
