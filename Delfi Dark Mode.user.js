@@ -25,6 +25,7 @@ addGlobalStyle('body, .C-block-type-11, .G-col { background-color: #121212 !impo
 addGlobalStyle('h1, h2, h3, h4, h5, .C-block-type-social-text, a, .C-headline-title, .PILETITASKU-ticket__title, .PILETITASKU-ticket__date, #LB24, .lb24 { color: #FFFFFF !important; }');
 addGlobalStyle('.C-headline-title__share, .C-comment-count { display: none !important; }');
 addGlobalStyle('.WEATHER-location-search { background: #121212 !important; color: #FFFFFF !important; }');
+addGlobalStyle('.C-header__logo { filter: brightness(0) invert(1) !important; }');
 
 
 (function() {
